@@ -1,0 +1,53 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost
+P001,Kericho Gold Tea Small,Beverages,Tea,Kericho Gold,65.00,33.30
+P002,Kericho Gold Tea Large,Beverages,Tea,Kericho Gold,240.00,143.75
+P003,Ketepa Tea Small,Beverages,Tea,Ketepa,85.00,59.27
+P004,Ketepa Tea Large,Beverages,Tea,Ketepa,768.00,435.75
+P005,Dormans Coffee Small,Beverages,Coffee,Dormans,280.00,155.78
+P006,Dormans Coffee Large,Beverages,Coffee,Dormans,96.00,57.00
+P007,Java House Coffee Small,Beverages,Coffee,Java House,480.00,321.79
+P008,Java House Coffee Large,Beverages,Coffee,Java House,829.00,452.94
+P009,Del Monte Juice Small,Beverages,Juice,Del Monte,480.00,304.27
+P010,Del Monte Juice Large,Beverages,Juice,Del Monte,560.00,374.00
+P011,Minute Maid Juice Small,Beverages,Juice,Minute Maid,45.00,31.58
+P012,Minute Maid Juice Large,Beverages,Juice,Minute Maid,136.00,93.79
+P013,Dasani Water Small,Beverages,Water,Dasani,210.00,127.17
+P014,Dasani Water Large,Beverages,Water,Dasani,192.00,142.36
+P015,Keringet Water Small,Beverages,Water,Keringet,210.00,119.79
+P016,Keringet Water Large,Beverages,Water,Keringet,484.00,255.07
+P017,Broadways Bread Small,Bakery,Bread,Broadways,210.00,140.86
+P018,Broadways Bread Large,Bakery,Bread,Broadways,72.00,50.11
+P019,Festive Bread Small,Bakery,Bread,Festive,480.00,275.98
+P020,Festive Bread Large,Bakery,Bread,Festive,448.00,253.46
+P021,Pioneer Biscuits Small,Bakery,Biscuits,Pioneer,150.00,107.38
+P022,Pioneer Biscuits Large,Bakery,Biscuits,Pioneer,336.00,223.60
+P023,Britania Biscuits Small,Bakery,Biscuits,Britania,65.00,33.55
+P024,Britania Biscuits Large,Bakery,Biscuits,Britania,192.00,135.29
+P025,Brookside Milk Small,Dairy,Milk,Brookside,60.00,43.26
+P026,Brookside Milk Large,Dairy,Milk,Brookside,96.00,60.10
+P027,Tuzo Milk Small,Dairy,Milk,Tuzo,350.00,237.00
+P028,Tuzo Milk Large,Dairy,Milk,Tuzo,336.00,195.73
+P029,Daima Yoghurt Small,Dairy,Yoghurt,Daima,210.00,124.30
+P030,Daima Yoghurt Large,Dairy,Yoghurt,Daima,240.00,165.69
+P031,Fresha Yoghurt Small,Dairy,Yoghurt,Fresha,65.00,40.31
+P032,Fresha Yoghurt Large,Dairy,Yoghurt,Fresha,136.00,89.33
+P033,Omo Cleaning Small,Household,Cleaning,Omo,120.00,69.92
+P034,Omo Cleaning Large,Household,Cleaning,Omo,448.00,270.59
+P035,Jik Cleaning Small,Household,Cleaning,Jik,480.00,285.08
+P036,Jik Cleaning Large,Household,Cleaning,Jik,336.00,241.44
+P037,Kleenex Paper Small,Household,Paper,Kleenex,45.00,26.81
+P038,Kleenex Paper Large,Household,Paper,Kleenex,72.00,51.19
+P039,Rosy Paper Small,Household,Paper,Rosy,280.00,168.99
+P040,Rosy Paper Large,Household,Paper,Rosy,192.00,140.66
+P041,Geisha Soap Small,Personal Care,Soap,Geisha,210.00,124.43
+P042,Geisha Soap Large,Personal Care,Soap,Geisha,560.00,352.31
+P043,Dettol Soap Small,Personal Care,Soap,Dettol,350.00,202.50
+P044,Dettol Soap Large,Personal Care,Soap,Dettol,136.00,81.51
+P045,Colgate Oral Care Small,Personal Care,Oral Care,Colgate,480.00,315.74
+P046,Colgate Oral Care Large,Personal Care,Oral Care,Colgate,448.00,326.84
+P047,Oral-B Oral Care Small,Personal Care,Oral Care,Oral-B,280.00,174.27
+P048,Oral-B Oral Care Large,Personal Care,Oral Care,Oral-B,136.00,88.66
+P049,Zawadi Own Brand 1,Household,Cleaning,Zawadi,99.00,60.00
+P050,Zawadi Own Brand 2,Household,Cleaning,Zawadi,99.00,60.00
+P051,Zawadi Own Brand 3,Household,Cleaning,Zawadi,99.00,60.00
+P052,Zawadi Own Brand 4,Household,Cleaning,Zawadi,99.00,60.00

@@ -1,0 +1,13 @@
+store_id,store_name,region_id,city,store_type,opened_date
+S01,Zawadi Westlands,R01,Nairobi,Flagship,2018-03-12
+S02,Zawadi Kilimani,R01,Nairobi,Standard,2019-06-01
+S03,Zawadi Eastleigh,R01,Nairobi,Standard,2020-02-17
+S04,Zawadi Nyali,R02,Mombasa,Flagship,2018-09-30
+S05,Zawadi Diani,R02,Kwale,Express,2021-12-05
+S06,Zawadi Kisumu CBD,R03,Kisumu,Standard,2019-11-11
+S07,Zawadi Kakamega,R03,Kakamega,Express,2022-04-20
+S08,Zawadi Nakuru,R04,Nakuru,Flagship,2019-01-15
+S09,Zawadi Eldoret,R04,Eldoret,Standard,2020-08-08
+S10,Zawadi Naivasha,R04,Naivasha,Express,2023-03-03
+S11,Zawadi Thika,R05,Thika,Standard,2021-05-25
+S12,Zawadi Nyeri,R05,Nyeri,Standard,2022-10-10
